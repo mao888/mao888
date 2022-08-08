@@ -101,7 +101,8 @@ def fetch_code_time():
     )
 
 def fetch_douban():
-    entries = feedparser.parse("https://www.douban.com/feed/people/pseudo-yu/interests")["entries"]
+    # entries = feedparser.parse("https://www.douban.com/feed/people/pseudo-yu/interests")["entries"]
+    entries = feedparser.parse("https://www.jianshu.com/users/89b7bf8342cb/liked_notes")["entries"]
     return [
         {
             "title": item["title"],
