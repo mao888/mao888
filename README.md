@@ -23,8 +23,8 @@
 
 - 🔭 I am a Golang back-end development engineer from Henan, China
 - 🤔 I love computer, cross-major self-study, now Java to GO
-- 📝 I’m currently working on  [纸贵科技](https://www.zhigui.com)
-- 🌱 I’m currently learning 【后端】【微服务】【区块链】
+- 📝 I’m currently working on  [贝塔科技](http://www.fotoable.com/)
+- 🌱 I’m currently learning 【后端】【微服务】【区块链】【游戏开发】
 - ⚡ Motto: 如果有不可能，那就去创造。
 - 📫 How to reach me: WeChat:18864470086
 - ⚡ Fun fact: swimming、League of Legends games
@@ -50,6 +50,11 @@
       <strong> 🌟 I'm proud to be part of these organizations 🌟 </strong><br>
       <table>
         <tr>
+        <td align="center">
+            <a href="http://www.fotoable.com">
+              <img width="300" height="100%" src="https://img0.baidu.com/it/u=158442831,3568529033&fm=253&app=120&size=w931&n=0&f=JPEG&fmt=auto?sec=1665853200&t=13736dc8b68a47e9c9914eb4f4ade344" />
+            </a>
+          </td>
           <td align="center">
             <a href="https://github.com/zhigui-projects">
               <img src="https://avatars.githubusercontent.com/u/40972663?s=150&v=4" />
