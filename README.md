@@ -52,7 +52,7 @@
         <tr>
         <td align="center">
             <a href="http://www.fotoable.com">
-              <img width="200" height="100%" src="https://img0.baidu.com/it/u=158442831,3568529033&fm=253&app=120&size=w931&n=0&f=JPEG&fmt=auto?sec=1665853200&t=13736dc8b68a47e9c9914eb4f4ade344" />
+              <img width="150" height="100%" src="https://img0.baidu.com/it/u=158442831,3568529033&fm=253&app=120&size=w931&n=0&f=JPEG&fmt=auto?sec=1665853200&t=13736dc8b68a47e9c9914eb4f4ade344" />
             </a>
           </td>
           <td align="center">
