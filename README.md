@@ -19,6 +19,14 @@
 
 <br />
 
+<a href=#><img src="images/contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+</p>
+
+
 **About me**
 
 - 🔭 I am a Golang back-end development engineer from Henan, China
