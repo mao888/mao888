@@ -48,7 +48,26 @@
 - 💼 Love open-source
 - 💬 Ask me about anything, [email me](mailto:2557523039@qq.com)
 
+<a name="download"></a>
 
+<b><details><summary> :orange_book:(点击此处可展开)官方公众号:Gopher毛； QQ交流群2：579480724；QQ交流群1(满) :1007576722</summary></b>
+
+
+请扫描或搜索下方二维码、公众号，获取想要的资料、八股或进群交流。
+
+<a name="公众号"></a>
+<div align="center"><img src="https://i.postimg.cc/zXkfPv6P/image.png" style="zoom:20%;" />
+    <p>官方公众号：Gopher毛</p>
+</div>
+<div align="center"><img src="https://i.postimg.cc/VkLNy1cs/Gophers2.png" style="zoom:45%;" />
+   <p>QQ交流群2：579480724</p>
+</div>
+<div align="center"><img src="https://i.postimg.cc/C5QQDnnv/Gophers-1.png" style="zoom:45%;" />
+   <p>QQ交流群1(满)：1007576722</p>
+</div>
+<div align="center"><img src="https://i.postimg.cc/wxZ5TfBd/image.jpg" style="zoom:15%;" />
+    <p>博主微信：(18836288306)加我v拉微信群</p>
+</div>
 
 #### :octocat: Github Stats
 
