@@ -52,7 +52,6 @@
 
 <b><details><summary> :orange_book:(点击此处可展开)官方公众号:Gopher毛； QQ交流群2：579480724；QQ交流群1(满) :1007576722</summary></b>
 
-
 请扫描或搜索下方二维码、公众号，获取想要的资料、八股或进群交流。
 
 <a name="公众号"></a>
@@ -68,6 +67,7 @@
 <div align="center"><img src="https://i.postimg.cc/wxZ5TfBd/image.jpg" style="zoom:15%;" />
     <p>博主微信：(18836288306)加我v拉微信群</p>
 </div>
+</details>
 
 #### :octocat: Github Stats
 
