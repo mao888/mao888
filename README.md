@@ -2,7 +2,8 @@
  <h3 align="center">:octocat: Learning :octocat:</h3>
 </p>
 
-### Hi there ✋ I am Chao Hu
+[//]: # (### Hi there ✋ I am Chao Hu)
+<h2> Hey there! I'm HuChao. <img src="./images/Hi.gif" width="25"></h2>
 
 [//]: # ([![Personal Mao's blog]&#40;https://img.shields.io/badge/Mao-blog-9cf?style=flat-square&#41;]&#40;https://www.huchao.vip&#41;)
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=duktig666&color=green)
