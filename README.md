@@ -101,7 +101,7 @@
         <img src="https://yu-readme.vercel.app/api/top-langs/?username=mao888&hide=html,php,css,typescript,python,java,smarty&layout=compact&theme=gotham">
     </td>
     <td align="center">
-      <!-- <img src="https://yu-github-readme-stats.herokuapp.com/?user=mao888&theme=gotham"> -->
+      <img src="https://yu-github-readme-stats.herokuapp.com/?user=mao888&theme=gotham">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mao888&theme=gotham">
     </td>
   </tr>
