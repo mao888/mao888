@@ -45,8 +45,12 @@
 [![Commits Badge](https://badges.strrl.dev/commits/weekly/mao888?style=flat-square)](https://github.com/mao888)
 [![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/mao888?style=flat-square)](https://github.com/mao888)
 
-- 💼 Love open-source
-- 💬 Ask me about anything, [email me](mailto:2557523039@qq.com)
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://twitter.com/v5m30Xj70Z5IS5C" target="_blank" rel="noopener noreferrer"><img alt="GIF" src="./source/twitter.gif" width="50" /></a>  
+&nbsp; <a href="mailto:qwxxhuchao@gmail.com" target="_blank" rel="noopener noreferrer"><img src="./source/email.gif"  width="50" /></a>
+&nbsp; <a href="https://github.com/mao888" target="_blank" rel="noopener noreferrer"><img src="./source/github.gif"  width="50" /></a>
 
 <a name="download"></a>
 
@@ -95,7 +99,6 @@
       <img width="120%" src="https://yu-readme.vercel.app/api?username=mao888&count_private=true&theme=gotham&show_icons=true" />
     </td>
   </tr>
-  
    <tr>
     <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mao888&layout=compact&text_color=daf7dc&bg_color=151515">
