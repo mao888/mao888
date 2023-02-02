@@ -92,7 +92,7 @@
       </table>
     </td>
     <td align="center">
-      <img width="120%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mao888&layout=compact&text_color=daf7dc&bg_color=151515" />
+      <img width="120%" src="https://yu-readme.vercel.app/api?username=mao888&count_private=true&theme=gotham&show_icons=true" />
     </td>
   </tr>
   
