@@ -101,14 +101,14 @@
         <img src="https://yu-readme.vercel.app/api/top-langs/?username=mao888&hide=html,php,css,typescript,python,java,smarty&layout=compact&theme=gotham">
     </td>
     <td align="center">
-      <img src="https://yu-github-readme-stats.herokuapp.com/?user=mao888&theme=gotham">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mao888&layout=compact&text_color=daf7dc&bg_color=151515">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mao888&theme=gotham">
     </td>
   </tr>
 </table>
 
 ## 🏆 GitHub Trophies
-
+<img src="https://yu-github-readme-stats.herokuapp.com/?user=mao888&theme=gotham">
 [![trophy](https://github-profile-trophy.vercel.app/?username=mao888&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
