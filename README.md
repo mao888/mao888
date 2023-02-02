@@ -95,10 +95,11 @@
       <img width="120%" src="https://yu-readme.vercel.app/api?username=mao888&count_private=true&theme=gotham&show_icons=true" />
     </td>
   </tr>
-  <tr>
-          <td align="center">
-            <img src="https://yu-readme.vercel.app/api/top-langs/?username=mao888&hide=html,php,css,typescript,python,java,smarty&layout=compact&theme=gotham">
-          </td>
+  
+   <tr>
+    <td align="center">
+        <img src="https://yu-readme.vercel.app/api/top-langs/?username=mao888&hide=html,php,css,typescript,python,java,smarty&layout=compact&theme=gotham">
+    </td>
     <td align="center">
       <!-- <img src="https://yu-github-readme-stats.herokuapp.com/?user=mao888&theme=gotham"> -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mao888&theme=gotham">
