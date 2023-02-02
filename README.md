@@ -73,7 +73,7 @@
 </details>
 
 
-#### :octocat: Github Stats
+### :octocat: Github Stats
 
 <table align="center" width="100%">
   <tr>
