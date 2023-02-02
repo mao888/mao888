@@ -49,8 +49,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/v5m30Xj70Z5IS5C" target="_blank" rel="noopener noreferrer"><img alt="GIF" src="./images/twitter.gif" width="50" /></a>  
-
+&nbsp; <a href="https://twitter.com/v5m30Xj70Z5IS5C" target="_blank" rel="noopener noreferrer"><img alt="GIF" src="./images/twitter.gif" width="50" /></a>
 &nbsp; <a href="mailto:qwxxhuchao@gmail.com" target="_blank" rel="noopener noreferrer"><img src="./images/email.gif"  width="50" /></a>
 &nbsp; <a href="https://github.com/mao888" target="_blank" rel="noopener noreferrer"><img src="./images/github.gif"  width="50" /></a>
 
