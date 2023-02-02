@@ -40,8 +40,9 @@
 - ⚡ Fun fact: swimming、League of Legends games
 - 💬 ask me about anything, I am happy to help
 
+<h3>🛠 Tech Stack</h3>
 
-#### 🔨 Coding Activities
+[//]: # (#### 🔨 Coding Activities)
 [![Contributions Badge](https://badges.strrl.dev/contributions/all/mao888?style=flat-square)](https://github.com/mao888)
 [![Contributions Badge](https://badges.strrl.dev/contributions/weekly/mao888?style=flat-square)](https://github.com/mao888)
 [![Commits Badge](https://badges.strrl.dev/commits/weekly/mao888?style=flat-square)](https://github.com/mao888)
