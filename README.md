@@ -98,7 +98,7 @@
   
    <tr>
     <td align="center">
-        <img src="https://yu-readme.vercel.app/api/top-langs/?username=mao888&hide=html,php,css,typescript,python,java,smarty&layout=compact&theme=gotham">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qimengxingyuan&layout=compact&text_color=daf7dc&bg_color=151515">
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mao888&theme=gotham">
