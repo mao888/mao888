@@ -34,9 +34,9 @@
 - 📝 I’m currently working on  [贝塔科技](http://www.fotoable.com/)
 - 🌱 I’m currently learning 【后端】【微服务】【区块链】【游戏开发】
 - ⚡ Motto: 如果有不可能，那就去创造。
-- 📫 How to reach me: WeChat:18864470086
+- 📫 How to reach me: WeChat:18836288306
 - ⚡ Fun fact: swimming、League of Legends games
-- 💬 ask me about anything, i am happy to help
+- 💬 ask me about anything, I am happy to help
 
 #### 🔨 Coding Activities
 
