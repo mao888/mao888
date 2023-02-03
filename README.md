@@ -6,14 +6,13 @@
 <h2> Hey there! I'm HuChao. <img src="./images/Hi.gif" width="25"></h2>
 
 [//]: # ([![Personal Mao's blog]&#40;https://img.shields.io/badge/Mao-blog-9cf?style=flat-square&#41;]&#40;https://www.huchao.vip&#41;)
-![访问个人主页数量](https://komarev.com/ghpvc/?username=duktig666&color=green)
 [![个人博客](https://img.shields.io/badge/-个人博客（huchao.vip）-c14438?style=flat-square&logo=B&logoColor=white)](http://www.huchao.vip/blogs)
 [![Github](https://img.shields.io/github/followers/mao888?label=Github&style=social)](https://github.com/mao888)
 [![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/hu_maomao)
 [![BiliBili](https://img.shields.io/badge/-bilibili-blue)](https://space.bilibili.com/289144374?spm_id_from=333.1007.0.0)
 [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/qq_45696377?type=blog)
 [![简书](https://img.shields.io/badge/-简书-c14438?style=flat-square&logo=简&logoColor=white)](https://www.jianshu.com/u/https://www.jianshu.com/u/89b7bf8342cb)
-[![Gmail Badge](https://img.shields.io/badge/gmail-2557523039@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2557523039@qq.com)](mailto:2557523039@qq.com)
+[![Gmail Badge](https://img.shields.io/badge/gmail-qwxxhuchao@gmail.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qwxxhuchao@gmail.com)](mailto:qwxxhuchao@gmail.com)
 
 [//]: # ([![Twitter]&#40;https://img.shields.io/twitter/follow/pseudo_yu?logo=twitter&style=flat-square&#41;]&#40;https://twitter.com/pseudo_yu&#41;)
 [//]: # ([![Visits Badge]&#40;https://badges.strrl.dev/visits/pseudoyu/pseudoyu?style=flat-square&#41;]&#40;https://github.com/pseudoyu&#41;)
