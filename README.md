@@ -26,7 +26,8 @@
   <img src="https://profile-counter.glitch.me/mao888/count.svg" />
 </p>
 
-<img align="right" alt="GIF" src="./images/right.gif" width="500"/>
+[//]: # (<img align="right" alt="GIF" src="./images/right.gif" width="500"/>)
+<img align="right" alt="GIF" src="https://i.postimg.cc/G2SgwTzd/right.gif" width="500"/>
 
 **About me**
 
