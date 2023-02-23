@@ -1,9 +1,10 @@
 <p align="center">
- <h3 align="center">:octocat: Learning :octocat:</h3>
+<h2 height="200px" align="center">Hey ! I am Chao Hu <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
+<h2 align="center">A passionate Golang backend development engineer from China</h3>
 </p>
 
 [//]: # (### Hi there ✋ I am Chao Hu)
-<h2> Hey there! I'm HuChao. <img src="./images/Hi.gif" width="25"></h2>
+[//]: # (<h2> Hey there! I'm HuChao. <img src="./images/Hi.gif" width="25"></h2>)
 
 [//]: # ([![Personal Mao's blog]&#40;https://img.shields.io/badge/Mao-blog-9cf?style=flat-square&#41;]&#40;https://www.huchao.vip&#41;)
 [![个人博客](https://img.shields.io/badge/-个人博客（huchao.vip）-c14438?style=flat-square&logo=B&logoColor=white)](http://www.huchao.vip/blogs)
