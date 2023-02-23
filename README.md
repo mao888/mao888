@@ -43,6 +43,7 @@
 - 📫 How to reach me: WeChat:18836288306
 - ⚡ Fun fact: swimming、League of Legends games
 - 💬 ask me about anything, I am happy to help
+- 🔧 <a href="https://github.com/mao888/golang-guide">Golang求职笔经面经</a>
 
 <h3>🛠 Tech Stack</h3>
 
@@ -142,5 +143,3 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mao888&repo=go-utils&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="go-utils" />
     </a>
 </td>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
