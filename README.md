@@ -117,6 +117,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mao888&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 开源
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mao888" alt="mao888" /></a> </p>
+
 
 ## 🗂️ Highlight Projects
 <td align="center">
