@@ -28,7 +28,7 @@
   <img src="https://profile-counter.glitch.me/mao888/count.svg" />
 </p>
 
-![grid snake animation](./images/github-user-contribution.svg)
+[//]: # (![grid snake animation]&#40;./images/github-user-contribution.svg&#41;)
 
 [//]: # (<img align="right" alt="GIF" src="./images/right.gif" width="500"/>)
 <img align="right" alt="GIF" src="https://i.postimg.cc/G2SgwTzd/right.gif" width="400"/>
@@ -142,3 +142,5 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mao888&repo=go-utils&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="go-utils" />
     </a>
 </td>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
