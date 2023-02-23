@@ -28,6 +28,8 @@
   <img src="https://profile-counter.glitch.me/mao888/count.svg" />
 </p>
 
+![grid snake animation](./images/github-user-contribution.svg)
+
 [//]: # (<img align="right" alt="GIF" src="./images/right.gif" width="500"/>)
 <img align="right" alt="GIF" src="https://i.postimg.cc/G2SgwTzd/right.gif" width="400"/>
 
@@ -115,10 +117,6 @@
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=mao888&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Github status
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=mao888&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mao888&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
 
 ## 🗂️ Highlight Projects
 <td align="center">
