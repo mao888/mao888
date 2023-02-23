@@ -5,6 +5,7 @@
 
 [//]: # (### Hi there ✋ I am Chao Hu)
 [//]: # (<h2> Hey there! I'm HuChao. <img src="./images/Hi.gif" width="25"></h2>)
+[//]: # (<h2> Hey there! I'm HuChao. <img src="https://i.postimg.cc/Px9Tv9FZ/Hi.gif" width="25"></h2>)
 
 [//]: # ([![Personal Mao's blog]&#40;https://img.shields.io/badge/Mao-blog-9cf?style=flat-square&#41;]&#40;https://www.huchao.vip&#41;)
 [![个人博客](https://img.shields.io/badge/-个人博客（huchao.vip）-c14438?style=flat-square&logo=B&logoColor=white)](http://www.huchao.vip/blogs)
@@ -27,7 +28,8 @@
   <img src="https://profile-counter.glitch.me/mao888/count.svg" />
 </p>
 
-<img align="right" alt="GIF" src="./images/right.gif" width="500"/>
+[//]: # (<img align="right" alt="GIF" src="./images/right.gif" width="500"/>)
+<img align="right" alt="GIF" src="https://i.postimg.cc/G2SgwTzd/right.gif" width="400"/>
 
 **About me**
 
@@ -52,9 +54,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://github.com/mao888" target="_blank" rel="noopener noreferrer"><img src="./images/github.gif"  width="50" /></a>
-&nbsp; <a href="https://twitter.com/v5m30Xj70Z5IS5C" target="_blank" rel="noopener noreferrer"><img alt="GIF" src="./images/twitter.gif" width="50" /></a>
-&nbsp; <a href="mailto:qwxxhuchao@gmail.com" target="_blank" rel="noopener noreferrer"><img src="./images/email.gif"  width="50" /></a>
+&nbsp; <a href="https://github.com/mao888" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/QMctDX6P/github.gif"  width="50" /></a>
+&nbsp; <a href="https://twitter.com/v5m30Xj70Z5IS5C" target="_blank" rel="noopener noreferrer"><img alt="GIF" src="https://i.postimg.cc/3xvrj8HR/twitter.gif" width="50" /></a>
+&nbsp; <a href="mailto:qwxxhuchao@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/pXgRLwnt/email.gif"  width="50" /></a>
 
 <b><details><summary> :orange_book:点击此处可展开 官方公众号: Gopher毛； QQ交流群2：579480724；QQ交流群1(满) :1007576722</summary></b>
 
