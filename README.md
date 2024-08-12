@@ -8,7 +8,7 @@
 [//]: # (<h2> Hey there! I'm HuChao. <img src="https://i.postimg.cc/Px9Tv9FZ/Hi.gif" width="25"></h2>)
 
 [//]: # ([![Personal Mao's blog]&#40;https://img.shields.io/badge/Mao-blog-9cf?style=flat-square&#41;]&#40;https://www.huchao.vip&#41;)
-[![个人博客](https://img.shields.io/badge/-个人博客（huchao.vip）-c14438?style=flat-square&logo=B&logoColor=white)](http://www.huchao.vip/blogs)
+[![个人博客](https://img.shields.io/badge/-个人主页（home.huchao.vip）-c14438?style=flat-square&logo=B&logoColor=white)](http://www.home.huchao.vip)
 [![Github](https://img.shields.io/github/followers/mao888?label=Github&style=social)](https://github.com/mao888)
 [![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/hu_maomao)
 [![BiliBili](https://img.shields.io/badge/-bilibili-blue)](https://space.bilibili.com/289144374?spm_id_from=333.1007.0.0)
