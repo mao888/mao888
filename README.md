@@ -61,7 +61,7 @@
 &nbsp; <a href="https://twitter.com/v5m30Xj70Z5IS5C" target="_blank" rel="noopener noreferrer"><img alt="GIF" src="https://i.postimg.cc/3xvrj8HR/twitter.gif" width="50" /></a>
 &nbsp; <a href="mailto:qwxxhuchao@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/pXgRLwnt/email.gif"  width="50" /></a>
 
-<b><details><summary> :orange_book:点击此处可展开 官方公众号: Gopher毛；QQ交流群3：805360166；QQ交流群2(满)；QQ交流群1(满) :1007576722</summary></b>
+<b><details><summary> :orange_book:点击此处可展开 官方公众号: Gopher毛；QQ交流群3（活跃 巨佬云集）：805360166；QQ交流群2(满)；QQ交流群1(满) :1007576722</summary></b>
 
 **请扫描或搜索下方二维码、公众号，获取想要的资料、八股或进群交流。**
 
