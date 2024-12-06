@@ -92,9 +92,14 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <strong> 🌟 I'm proud to be part of these organizations 🌟 </strong><br>
+      <strong> 🌟 The following are the companies I have worked for 🌟 </strong><br>
       <table>
         <tr>
+        <td align="center">
+            <a href="https://www.bluecity.com">
+              <img width="150" height="100%" src="https://github.com/mao888/picx-images-hosting/raw/master/company/blued.ic618afeh.webp" />
+            </a>
+          </td>        
         <td align="center">
             <a href="http://www.fotoable.com">
               <img width="150" height="100%" src="https://img0.baidu.com/it/u=158442831,3568529033&fm=253&app=120&size=w931&n=0&f=JPEG&fmt=auto?sec=1665853200&t=13736dc8b68a47e9c9914eb4f4ade344" />
