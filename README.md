@@ -37,7 +37,7 @@
 
 - 🔭 I am a Golang back-end development engineer from Henan, China
 - 🤔 I love computer, cross-major self-study, now Java to GO
-- 📝 I’m currently working on  [贝塔科技](http://www.fotoable.com/)
+- 📝 I’m currently working on  [BlueCity](https://www.bluecity.com/)
 - 🌱 I’m currently learning 【后端】【微服务】【区块链】【游戏开发】
 - 🚀 Motto: 如果有不可能，那就去创造。
 - 📫 How to reach me: WeChat:18836288306 OR <a href="https://space.bilibili.com/289144374?spm_id_from=333.1007.0.0" target="_blank">B 站 </a>
