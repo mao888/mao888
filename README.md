@@ -97,17 +97,17 @@
         <tr>
         <td align="center">
             <a href="https://www.bluecity.com">
-              <img width="150" height="100%" src="https://github.com/mao888/picx-images-hosting/raw/master/company/blued.ic618afeh.webp" />
+              <img width="150" height="100%" src="https://mao888.github.io/picx-images-hosting/company/blued.ic618afeh.webp" />
             </a>
-          </td>        
+          </td>
         <td align="center">
             <a href="http://www.fotoable.com">
-              <img width="150" height="100%" src="https://img0.baidu.com/it/u=158442831,3568529033&fm=253&app=120&size=w931&n=0&f=JPEG&fmt=auto?sec=1665853200&t=13736dc8b68a47e9c9914eb4f4ade344" />
+              <img width="150" height="100%" src="https://mao888.github.io/picx-images-hosting/company/image.2ks1mryvad.webp" />
             </a>
           </td>
           <td align="center">
-            <a href="https://github.com/zhigui-projects">
-              <img src="https://avatars.githubusercontent.com/u/40972663?s=150&v=4" />
+            <a href="https://www.zhigui.com/">
+              <img src="https://mao888.github.io/picx-images-hosting/company/image.51ea1p4tje.webp" />
             </a>
           </td>
         </tr>
