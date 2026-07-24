@@ -7,19 +7,13 @@
 - Platane/snk：贡献贪吃蛇
 -->
 
-<a href="https://github.com/mao888" title="GitHub stats">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=mao888&show_icons=true&count_private=true&hide_title=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=adbac7&cache_seconds=86400"
-    />
-    <img
-      align="right"
-      height="150"
-      alt="GitHub stats"
-      src="https://github-readme-stats.vercel.app/api?username=mao888&show_icons=true&count_private=true&hide_title=true&hide_border=true&icon_color=0969da&text_color=57606a&bg_color=ffffff&cache_seconds=86400"
-    />
-  </picture>
+<a href="https://github.com/mao888" title="GitHub streak">
+  <img
+    align="right"
+    height="150"
+    alt="GitHub streak"
+    src="https://streak-stats.demolab.com/?user=mao888&theme=transparent&hide_border=true&locale=zh_Hans&card_width=420"
+  />
 </a>
 
 ### <img src="./images/Hi.gif" width="32" align="top" alt="" /> 你好，我是胡超
