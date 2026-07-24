@@ -68,7 +68,6 @@
 
 ---
 
----
 
 #### 贡献轨迹
 
@@ -95,7 +94,7 @@
 <p align="center">扫码或搜索加入，获取资料 / 八股 / 进群交流</p>
 
 <p align="center">
-  <img src="https://img.huchao.vip/file/wx/1784873828673_image.png" width="200" alt="Gopher毛 公众号" /><br/>
+  <img src="https://img.huchao.vip/file/wx/1784873828673_image.png" width="400" alt="Gopher毛 公众号" /><br/>
   <sub>官方公众号：Gopher毛</sub>
 </p>
 
